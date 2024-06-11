@@ -1,0 +1,21 @@
+{
+  "name": "com.darknaku.toast",
+  "displayName": "Toast",
+  "version": "0.1.0",
+  "unity" : "2018.3",
+  "author" : "DarkNaku",
+  "description" : "DarkNaku Toast Package - A package that displays messages in toast format.",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkNaku/Toast.git"
+  },
+  "samples": [
+    {
+      "displayName": "Toast",
+      "description": "Toast Example",
+      "path": "Samples~/SampleToast"
+    }
+  ]
+}
